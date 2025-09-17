@@ -31,10 +31,10 @@ Fresh graduate full of fire 2025 ✨
 <br/>
 
 <a href="https://github.com/iamphurichaya"> 
-<img alt="GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=iamphurichaya&show_icons=true&theme=react&border_color=c95560&bg_color=0D1117&title_color=c95560&icon_color=c95560" height="192px" width="49.5%"/> 
+<img alt="GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=iamphurichaya&show_icons=true&theme=react&border_color=c95560&bg_color=0D1117&title_color=c95560&icon_color=c95560" height="192px" width="50%"/> 
 </a> 
 <a href="https://github.com/iamphurichaya"> 
-  <img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=iamphurichaya&langs_count=8&layout=compact&theme=react&border_color=c95560&bg_color=0D1117&title_color=c95560&icon_color=c95560" height="182px" width="49.5%"/> 
+  <img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=iamphurichaya&langs_count=8&layout=compact&theme=react&border_color=c95560&bg_color=0D1117&title_color=c95560&icon_color=c95560" height="182px" width="50%"/> 
 </a>
 <br/><br/>
 
