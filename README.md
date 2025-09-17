@@ -25,13 +25,13 @@ Fresh graduate full of fire 2025 ✨
 <img src="https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5&logoColor=black" />
 <img src="https://img.shields.io/badge/CSS3-FFDCE0?style=for-the-badge&logo=css3&logoColor=black" />
 <img src="https://img.shields.io/badge/JavaScript-FFB3B9?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TailwindCSS--FF6B7F?style=for-the-badge&logo=tailwind-css&logoColor=black" />
+<img src="https://img.shields.io/badge/TailwindCSS-FF6B7F?style=for-the-badge&logo=tailwind-css&logoColor=black" />
 <img src="https://img.shields.io/badge/React-ff4757?style=for-the-badge&logo=react&logoColor=black" />
 </p>
 <br/>
 
 <a href="https://github.com/iamphurichaya"> 
-  <img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=iamphurichaya&langs_count=8&layout=compact&theme=react&border_color=c95560&bg_color=0D1117&title_color=c95560&icon_color=c95560" height="200px" width="49%"/> 
+  <img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=iamphurichaya&langs_count=8&layout=compact&theme=react&border_color=c95560&bg_color=0D1117&title_color=c95560&icon_color=c95560" height="170px" width="49%"/> 
 </a>
 <a href="https://github.com/iamphurichaya"> 
 <img alt="GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=iamphurichaya&show_icons=true&theme=react&border_color=c95560&bg_color=0D1117&title_color=c95560&icon_color=c95560" height="200px" width="49%"/> 
