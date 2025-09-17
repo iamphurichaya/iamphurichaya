@@ -44,7 +44,7 @@ Fresh graduate full of fire 2025 ✨
 <table align="center" >
     <td align="center">
       <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" height="120"/><br/>
-      <img src="https://img.shields.io/badge/Now%20Playing-Red%20Vibes%20🔥-c95560?style=for-the-badge&logo=spotify&logoColor=white" alt="Fake Spotify Card" height="40"/>
+      <img src="https://img.shields.io/badge/Now%20Playing-Red%20Vibes%20🔥-ff4757?style=for-the-badge&logo=spotify&logoColor=white" alt="Fake Spotify Card" height="40"/>
     </td>
      <td align="center">
       <img src="./assets/dog.gif" alt="Dog Cute GIF" height="120"/>
@@ -55,7 +55,7 @@ Fresh graduate full of fire 2025 ✨
 ## 💌 Support Me
 <div align="center">
 <a href="https://www.buymeacoffee.com"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
-</div>
+</div><br/>
 
 > “💻❤️”
 
