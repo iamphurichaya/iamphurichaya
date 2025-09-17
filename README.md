@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FF4757&center=true&vCenter=true&lines=Hi!+I'm+Ren+🐰;Front-end+%26+Future+Full-stack;Loves+Red+❤️;Eat+Sleep+Code+Repeat)](https://git.io/typing-svg)
 
-![Cute GIF](./assets/ilovemyjob.gif)
+![Typing GIF](./assets/ilovemyjob.gif)
 
 Coding my way through projects 💻  
 Fresh graduate full of fire 2025 ✨
@@ -39,10 +39,16 @@ Fresh graduate full of fire 2025 ✨
 <br/><br/>
 
 ## 🎧 Now Playing
-![Spotify](https://novatorem.vercel.app/api/spotify)
 
-![Fake Spotify Card](https://img.shields.io/badge/Now%20Playing-Red%20Vibes%20🔥-c95560?style=for-the-badge&logo=spotify&logoColor=white)
-
+<table align="center" >
+    <td align="center">
+      <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" height="120"/><br/>
+      <img src="https://img.shields.io/badge/Now%20Playing-Red%20Vibes%20🔥-c95560?style=for-the-badge&logo=spotify&logoColor=white" alt="Fake Spotify Card" height="40"/>
+    </td>
+     <td align="center">
+      <img src="./assets/dog-cute.gif" alt="Dog Cute GIF" height="120"/>
+    </td>
+</table>
 <br/>
 
 ## 💌 Support Me
