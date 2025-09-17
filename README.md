@@ -46,7 +46,7 @@ Fresh graduate full of fire 2025 ✨
       <img src="https://img.shields.io/badge/Now%20Playing-Red%20Vibes%20🔥-c95560?style=for-the-badge&logo=spotify&logoColor=white" alt="Fake Spotify Card" height="40"/>
     </td>
      <td align="center">
-      <img src="./assets/dog-cute.gif" alt="Dog Cute GIF" height="120"/>
+      <img src="./assets/dog.gif" alt="Dog Cute GIF" height="120"/>
     </td>
 </table>
 <br/>
